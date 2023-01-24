@@ -11,8 +11,11 @@ Fork and refactor the code however you see fit.
 
 **Running Tests**:
 
-Follow the below commands to run the tests.
-```     
+Navigate to `/movie-rental` folder and run the below commands to run the tests.
+
+```    
+    npm install -g jest 
+    npm install -g typescript 
     tsc tests/movie-rental.test.ts
     jest tests/movie-rental.test.js
 ```
