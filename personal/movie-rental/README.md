@@ -6,7 +6,7 @@ Fork and refactor the code however you see fit.
 * Add unit test coverage (example: should return the correct frequent renter points)
 * Think about the solid principals, which of these principals is the `returnCustomerRentalStatement` function violating.
 * The business requires that the `returnCustomerRentalStatement` function always returns the expected output as shown in the unit test `returns the correct rental record`. If that unit test fails the business will be angry!
-    * In the future the business would like to add a new `movie code`.
+* In the future the business would like to add a new `movie code`.
 * When completed, raise a PR and explain to the group your reason for refactoring certain aspects of the code. 
 
 **Running Tests**:
